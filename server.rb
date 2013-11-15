@@ -42,7 +42,7 @@ get '/' do
 </head>
 <body>
 <h1>Generate redirect rules for Amazon S3</h1>
-<p>Made in to Sinatra app from <a href='https://gist.github.com/chitsaou/5319661'>gist by chitsaou</a>. Example:
+<p>This is opensource <a href='https://github.com/rainforestapp/amazon-s3-redirects'>on github</a>. Example:
 <pre>
 /home                        /
 /products/iphone/specs.html  /iphone/specs.html
